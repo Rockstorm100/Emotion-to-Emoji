@@ -1,0 +1,44 @@
+.heading
+{
+  font-size: 26px;
+  letter-spacing: 5px;
+  padding-left: 60px;
+  padding-right: 60px;
+  border-radius: 50px;
+  font-weight:bolder;
+  color: rgb(250, 229, 0);
+  font-family: monospace;
+}
+body
+{
+  color: white;
+  background: #cff14a;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2.5px solid rgb(31, 152, 22);
+  width: 350px;
+  height: 300px; 
+  box-shadow: 1px 1px 40px rgb(255, 213, 0);
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.abc
+{
+  font-size: 20px;
+  color:rgb(255, 0, 149);
+}
